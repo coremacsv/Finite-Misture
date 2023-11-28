@@ -1,4 +1,4 @@
-# Finite-Misture
+# Finite-Mixture
 Dataset wine with finite misture
 
 ITA
