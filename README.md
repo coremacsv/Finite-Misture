@@ -1,5 +1,5 @@
 # Finite-Mixture
-Dataset wine with finite misture
+Dataset wine with finite mixture
 
 ITA
 Sono qui per presentarvi il mio progetto di analisi dati, focalizzato principalmente sulle misture finite. Inizialmente, ho condotto un'analisi descrittiva per ottenere una comprensione approfondita dei dati. Successivamente, ho eseguito un processo di clustering per determinare il numero ottimale di cluster da considerare. Infine, ho concluso il mio lavoro implementando le misture finite.
